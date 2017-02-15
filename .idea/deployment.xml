@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="Kooli Server" uploadOnCheckin="90f3cb13-0032-46be-9351-857a676da7f6">
+    <serverData>
+      <paths name="Kooli Server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/PHP_1" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="Kooli Server" />
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
